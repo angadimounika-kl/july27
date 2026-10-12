@@ -1,0 +1,1 @@
+"# july27"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/angadimounika-kl/july27.gitgit push -u origin main
